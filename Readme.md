@@ -1,1 +1,1 @@
-Tela de login League of Legend
+Tela de login League of Legends
