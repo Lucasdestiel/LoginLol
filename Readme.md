@@ -12,3 +12,7 @@ Experiência do usuário (UX)
 Interface visual (UI)
 Sensação de produto real
 Consistência visual
+
+
+✨ Preview
+<img width="1365" height="645" alt="Captura de tela 2026-05-04 201436" src="https://github.com/user-attachments/assets/f9051b6f-ec66-4c96-a2f2-b0f6a34788e5" />
